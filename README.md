@@ -11,7 +11,7 @@
 
 
  
- <div style="text-align:center"Ponto de Vista
+ <div style="text-align:center"<h3>Ponto de Vista</h3>
 <p>Um Conto de Isaac Asimov.</p></div>
 
 <div align="center">
@@ -20,7 +20,7 @@
  </div>
 
 
-<div style="text-align:center">O coração do delator
+<div style="text-align:center"><h3>O coração do delator</h3>
 <p>Um Conto de Edgard Allan Poe.</p></div>
 
 <div align="center">
