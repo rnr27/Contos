@@ -8,8 +8,9 @@
 <a href= "https://github.com/rnr27/Contos/blob/main/Os%20Outros">
 <img src="https://user-images.githubusercontent.com/100056877/216869182-14800c7e-b18d-4a3a-998a-c2c34be7bc4b.jpg"/>
  </div>
-<p>
-<p>
+
+<div><p>
+<p></div>
  
 <div style="text-align:center"<h3>Ponto de Vista</h3>
 <p>Um Conto de Isaac Asimov.</p></div>
