@@ -1,7 +1,7 @@
 # Contos
 
 
-<div style="text-align:center"><h3>Os Outros
+<div style="text-align:center"><h3>Os Outros</h3>
 <p>Um Conto de Niel Gaiman.</p></div>
 
 <div align="center">
