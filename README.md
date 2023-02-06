@@ -1,7 +1,5 @@
 # Contos
 
-# Operadores-Logicos
-
 **Os Outros**
 
 <div align="center">
@@ -10,12 +8,12 @@
 
 **Ponto de Vista**
 
-<div align="center" width=300px>
-<img src="https://user-images.githubusercontent.com/100056877/216869204-cb7bd15b-7519-47bd-9dc5-32b16619d29e.png"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/100056877/216869860-52b4cf8a-9c34-4101-b5f1-8f9ab3e52387.png"/>
  </div>
 
 **O coração do Delator**
 
-<div align="center" width=300px>
-<img src="https://user-images.githubusercontent.com/100056877/216869192-1761a818-269c-49e5-81df-968ea04246c0.png"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/100056877/216869853-6281ef0c-3202-4e05-b2a8-c2edc876d47f.png"/>
  </div>
