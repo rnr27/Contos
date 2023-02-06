@@ -1,6 +1,6 @@
 # Contos
 
-**Os Outros**
+:**Os Outros**:
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Os%20Outros">
@@ -9,7 +9,7 @@
 
 
  
- **Ponto de Vista**
+ :**Ponto de Vista**:
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Ponto%20de%20Vista">
@@ -18,7 +18,7 @@
 
 
  
- **O coração do Delator**
+ :**O coração do Delator**:
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/O%20Cora%C3%A7%C3%A3o%20do%20Delator">
