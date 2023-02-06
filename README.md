@@ -1,8 +1,8 @@
 # Contos
 
 
-<div h3 style="text-align:center">Os Outros
-<p>Um conte de Niel Gaiman.</p></div>
+<div style="text-align:center"><h3>Os Outros
+<p>Um Conto de Niel Gaiman.</p></div>
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Os%20Outros">
@@ -11,7 +11,8 @@
 
 
  
- **Ponto de Vista**
+ <div style="text-align:center"Ponto de Vista
+<p>Um Conto de Isaac Asimov.</p></div>
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Ponto%20de%20Vista">
@@ -19,8 +20,8 @@
  </div>
 
 
- 
- **O coração do Delator**
+<div style="text-align:center">O coração do delator
+<p>Um Conto de Edgard Allan Poe.</p></div>
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/O%20Cora%C3%A7%C3%A3o%20do%20Delator">
