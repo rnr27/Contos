@@ -1,6 +1,6 @@
 # Contos
 
-:**Os Outros**:
+**:Os Outros:**
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Os%20Outros">
