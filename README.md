@@ -12,8 +12,8 @@
 <div><p>
 <p></div>
  
-<div style="text-align:center"<h3>Ponto de Vista</h3>
-<p>Um Conto de Isaac Asimov.</p></div>
+<div style="text-align:center"><h3>Os Outros</h3>
+<p>Um Conto de Niel Gaiman.</p></div>
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Ponto%20de%20Vista">
