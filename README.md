@@ -1,6 +1,6 @@
 # Contos
 
-~~~javascript
+:------:
 **Os Outros**
 
 <div align="center">
