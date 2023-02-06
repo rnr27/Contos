@@ -1,7 +1,8 @@
 # Contos
 
 
-<center> **Os Outros** </center>
+<div style="text-align:center">Os Outros
+<p>Este parágrafo também.</p></div>
 
 <div align="center">
 <a href= "https://github.com/rnr27/Contos/blob/main/Os%20Outros">
