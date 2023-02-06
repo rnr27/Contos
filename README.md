@@ -11,7 +11,7 @@
 
 
  
- <div style="text-align:center"<h3>Ponto de Vista</h3>
+ <div style="text-align:center"<h2>Ponto de Vista</h2>
 <p>Um Conto de Isaac Asimov.</p></div>
 
 <div align="center">
