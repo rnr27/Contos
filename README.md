@@ -1,7 +1,7 @@
 # Contos
 
 
-<div><h3 align="center">Os Outros</h3>
+<div align="center"><h3 >Os Outros</h3>
 <p>Um Conto de Niel Gaiman.</p></div>
 
 <div align="center">
@@ -10,7 +10,7 @@
  </div>
 
  
-<div style="text-align:center"><h3>Ponto de Vista</h3>
+<div align="center""><h3>Ponto de Vista</h3>
 <p>Um Conto de Isaac Asimov.</p></div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <p>
 <p>
 
-<div style="text-align:center"><h3>O coração do delator</h3>
+<div align="center""><h3>O coração do delator</h3>
 <p>Um Conto de Edgard Allan Poe.</p></div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 
 
-<div style="text-align:center"><h3><a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
+<div align="center"r"><h3><a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
 <p>Texto de Pedro Rafael Vilela</p></div>
 
 <div align="center">
