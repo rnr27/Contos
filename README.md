@@ -28,3 +28,14 @@
 <a href= "https://github.com/rnr27/Contos/blob/main/O%20Cora%C3%A7%C3%A3o%20do%20Delator">
 <img src="https://user-images.githubusercontent.com/100056877/216869853-6281ef0c-3202-4e05-b2a8-c2edc876d47f.png"/>
  </div>
+
+
+
+
+<div style="text-align:center"><h3>Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
+<p>Texto de Pedro Rafael Vilela</p></div>
+
+<div align="center">
+<a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">
+<img src="https://user-images.githubusercontent.com/100056877/218894942-b76a2412-3631-4e1d-bf76-2d3e393e7fd1.png"/>
+ </div>
