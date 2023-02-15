@@ -33,6 +33,7 @@
 
 
 <div style="text-align:center"><h3>Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
+<a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">
 <p>Texto de Pedro Rafael Vilela</p></div>
 
 <div align="center">
