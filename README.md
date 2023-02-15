@@ -1,4 +1,4 @@
-# Contos
+# Leitura e Produção Textual
 
 
 <div align="center"><h3 >Os Outros</h3>
@@ -33,7 +33,7 @@
 
 
 <div align="center"r"><h3><a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
-<p>Texto de Pedro Rafael Vilela</p></div>
+<p>por Pedro Rafael Vilela</p></div>
 
 <div align="center">
 <a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">
