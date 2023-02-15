@@ -31,8 +31,8 @@
 
 
 
-<a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">
-<div style="text-align:center"><a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura"><h3>Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
+
+<div style="text-align:center"><h3><a href= "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/indigenas-yanomami-descrevem-impactos-do-garimpo-na-saude-e-na-cultura">Indígenas yanomami mostram impactos sociais graves do garimpo ilegal</h3>
 <p>Texto de Pedro Rafael Vilela</p></div>
 
 <div align="center">
